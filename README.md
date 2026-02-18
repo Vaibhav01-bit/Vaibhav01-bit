@@ -1,4 +1,5 @@
-## 💫 About Me
+Hey 👋What's Up?
+ 💫 About Me
 
 🚀 Self-driven developer focused on building real-world web apps, not just tutorials  
 🧠 Currently exploring full-stack development with React, Next.js & cloud tools  
