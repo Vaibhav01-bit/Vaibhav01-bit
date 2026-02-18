@@ -1,5 +1,10 @@
-# 💫 About Me:
-🌱 learning every day<br>💡 building cool things<br>🤝 open to collaboration<br>📬 happy to connect and chat<br>⚡ caffeine + code = happiness
+## 💫 About Me
+
+🚀 Self-driven developer focused on building real-world web apps, not just tutorials  
+🧠 Currently exploring full-stack development with React, Next.js & cloud tools  
+⚙️ I enjoy turning ideas into fast, clean, scalable products  
+🔍 Always improving problem-solving skills through projects & experimentation  
+🤝 Open to collaborating on meaningful projects and startup ideas
 
 
 ## 🌐 Socials:
