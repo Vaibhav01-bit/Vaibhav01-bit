@@ -75,12 +75,9 @@ Portfolio Website:https://vaibhav-ingle-portfolio.vercel.app/
 ![Profile Views](https://komarev.com/ghpvc/?username=Vaibhav01-bit&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vaibhav01-bit/Vaibhav01-bit/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/Vaibhav01-bit/Vaibhav01-bit/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-
 
 
 ⭐ *Always building, always learning.*
