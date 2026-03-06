@@ -1,6 +1,8 @@
 Hey 👋What's Up?
 💫 About Me.
-
+<p align="center">
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%"/>
+</p>
 Portfolio Website:https://vaibhav-ingle-portfolio.vercel.app/
 
 🚀 Self-driven developer focused on building real-world web apps, not just tutorials  
