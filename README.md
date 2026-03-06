@@ -72,13 +72,7 @@ Portfolio Website:https://vaibhav-ingle-portfolio.vercel.app/
 
 ---
 
-# 📊 GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav01-bit&theme=tokyo-night"/>
-</p>
-
----
 
 ## 🧊 3D Contribution Graph
 
