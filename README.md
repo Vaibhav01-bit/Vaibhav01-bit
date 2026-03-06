@@ -70,14 +70,21 @@ Portfolio Website:https://vaibhav-ingle-portfolio.vercel.app/
 
 
 
-## 🧊 3D Contribution Graph
+# 📊 GitHub Activity
 
 <p align="center">
-<img src="https://ghchart.rshah.org/409ba5/Vaibhav01-bit" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav01-bit&theme=tokyo-night"/>
 </p>
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Vaibhav01-bit/Vaibhav01-bit/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
 
 ⭐ *Always building, always learning.*
 
