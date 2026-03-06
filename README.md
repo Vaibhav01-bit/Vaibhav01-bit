@@ -9,8 +9,11 @@ Hey 👋What's Up?
 
 
 <h3 align="center">Building Web Apps • AI Tools • Productivity Software</h3>
-Portfolio Website:https://vaibhav-ingle-portfolio.vercel.app/
-
+<p align="center">
+<a href="https://vaibhav-ingle-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-orange?style=for-the-badge&logo=firefox">
+</a>
+</p>
 
 
 🚀 Self-driven developer focused on building real-world web apps, not just tutorials  
