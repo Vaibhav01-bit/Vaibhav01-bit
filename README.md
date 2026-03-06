@@ -72,11 +72,7 @@ Hey 👋What's Up?
   <img src="https://streak-stats.demolab.com?user=Vaibhav01-bit&theme=tokyonight" />
 </p>
 
-## 🧊 3D Contribution Graph
 
-<p align="center">
-<img src="https://ghchart.rshah.org/409ba5/Vaibhav01-bit" />
-</p>
 
 
 
