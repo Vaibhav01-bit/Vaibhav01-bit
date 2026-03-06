@@ -50,15 +50,13 @@ Portfolio Website:https://vaibhav-ingle-portfolio.vercel.app/
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav01-bit&show_icons=true&theme=tokyonight&hide_border=true&v=2)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vaibhav01-bit&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vaibhav01-bit&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Vaibhav01-bit&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav01-bit&layout=compact&theme=tokyonight&hide_border=true&v=2)
-
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vaibhav01-bit&layout=compact&theme=tokyonight)
 ---
 
 ## 📈 Contribution Graph
