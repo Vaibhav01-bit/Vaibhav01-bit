@@ -1,6 +1,8 @@
 Hey 👋What's Up?
 💫 About Me.
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Vaibhav+Ingle;Self-Driven+Developer;Building+Real-World+Web+Apps;Exploring+AI+%26+Cloud+Technologies;Open+to+Collaboration+🚀" />
+</p>
 
 <h1 align="center">Hi 👋 I'm Vaibhav Ingle</h1>
 <h3 align="center">Building Web Apps • AI Tools • Productivity Software</h3>
@@ -78,12 +80,7 @@ Portfolio Website:https://vaibhav-ingle-portfolio.vercel.app/
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Vaibhav01-bit/Vaibhav01-bit/output/github-contribution-grid-snake.svg"/>
-</p>
----
 
 ⭐ *Always building, always learning.*
 
