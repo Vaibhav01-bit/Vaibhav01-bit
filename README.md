@@ -1,8 +1,11 @@
 Hey 👋What's Up?
 💫 About Me.
 <p align="center">
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="100%" />
 </p>
+
+<h1 align="center">Hi 👋 I'm Vaibhav Ingle</h1>
+<h3 align="center">Building Web Apps • AI Tools • Productivity Software</h3>
 Portfolio Website:https://vaibhav-ingle-portfolio.vercel.app/
 
 🚀 Self-driven developer focused on building real-world web apps, not just tutorials  
