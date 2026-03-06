@@ -70,14 +70,23 @@ Portfolio Website:https://vaibhav-ingle-portfolio.vercel.app/
 
 ---
 
-# 👀 Profile Views
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vaibhav01-bit&label=Profile%20views&color=0e75b6&style=flat)
+# 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav01-bit&theme=tokyo-night"/>
+</p>
 
 ---
+
+## 🧊 3D Contribution Graph
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/Vaibhav01-bit/Vaibhav01-bit/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://ghchart.rshah.org/409ba5/Vaibhav01-bit" />
 </p>
+
+---
 
 
 ⭐ *Always building, always learning.*
