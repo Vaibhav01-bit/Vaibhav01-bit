@@ -51,17 +51,15 @@ Portfolio Website:https://vaibhav-ingle-portfolio.vercel.app/
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vaibhav01-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vaibhav01-bit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav01-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav01-bit&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Vaibhav01-bit&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav01-bit&layout=compact&theme=tokyonight)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Vaibhav01-bit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Vaibhav01-bit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Vaibhav01-bit&label=Profile%20views&color=0e75b6&style=flat)
 ⭐ *Always building, always learning.*
