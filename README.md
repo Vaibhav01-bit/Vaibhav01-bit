@@ -92,6 +92,15 @@ Hey 👋What's Up?
 
 ⭐ *Always building, always learning.*
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Vaibhav01-bit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Vaibhav01-bit" /></a></p><br><br>
+<h3 align="center">☕ Support My Work</h3>
+
+<p align="center">
+If you like my projects, consider supporting me ❤️
+</p>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/Vaibhav01-bit">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
+</a>
+</p>
 
