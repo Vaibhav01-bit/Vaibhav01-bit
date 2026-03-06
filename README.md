@@ -53,17 +53,25 @@ Portfolio Website:https://vaibhav-ingle-portfolio.vercel.app/
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav01-bit&show_icons=true&theme=tokyonight)
+![Vaibhav's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vaibhav01-bit&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vaibhav01-bit&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Vaibhav01-bit&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav01-bit&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vaibhav01-bit&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav01-bit&theme=tokyo-night)
 
 ---
 
 # 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vaibhav01-bit&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Vaibhav01-bit&label=Profile%20views&color=0e75b6&style=flat)
+
+---
 
 
 
