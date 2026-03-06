@@ -1,8 +1,6 @@
 Hey 👋What's Up?
 💫 About Me.
-<p align="center">
-<img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋 I'm Vaibhav Ingle</h1>
 <h3 align="center">Building Web Apps • AI Tools • Productivity Software</h3>
@@ -64,13 +62,11 @@ Portfolio Website:https://vaibhav-ingle-portfolio.vercel.app/
   <img src="https://streak-stats.demolab.com?user=Vaibhav01-bit&theme=tokyonight" />
 </p>
 
-## 📈 Contribution Graph
+## 🧊 3D Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav01-bit&theme=tokyo-night)
-
----
-
----
+<p align="center">
+<img src="https://ghchart.rshah.org/409ba5/Vaibhav01-bit" />
+</p>
 
 
 
