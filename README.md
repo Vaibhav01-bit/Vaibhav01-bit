@@ -1,6 +1,9 @@
 Hey 👋What's Up?
 💫 About Me.
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Vaibhav%20Ingle&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Vaibhav+Ingle;Self-Driven+Developer;Building+Real-World+Web+Apps;Exploring+AI+%26+Cloud+Technologies;Open+to+Collaboration+🚀" />
 </p>
 
