@@ -104,7 +104,7 @@ consider buying me a coffee ❤️
 </p>
 
 <p align="center">
-<img src="https://media.tenor.com/Isjtbk4v5u4AAAAC/coffee-coffee-time.gif" width="230"/>
+<img src="https://media.tenor.com/6oSedVpeB-YAAAAC/coffee-code.gif" width="230"/>
 </p>
 
 <p align="center">
