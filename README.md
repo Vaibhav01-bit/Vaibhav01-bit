@@ -88,6 +88,8 @@ Hey 👋What's Up?
 
 ---
 
+---
+
 ⭐ *Always building, always learning.*
 
 ---
@@ -99,66 +101,7 @@ If you enjoy my projects and want to support my work, consider buying me a coffe
 </p>
 
 <p align="center">
-
-<svg width="260" height="200" viewBox="0 0 300 220" xmlns="http://www.w3.org/2000/svg">
-
-<!-- Shadow -->
-<ellipse cx="150" cy="190" rx="95" ry="12" fill="#000" opacity="0.25"/>
-
-<!-- Gradients -->
-<defs>
-<linearGradient id="cup3d" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" stop-color="#ffffff"/>
-<stop offset="50%" stop-color="#e6e6e6"/>
-<stop offset="100%" stop-color="#cfcfcf"/>
-</linearGradient>
-
-<radialGradient id="coffee3d">
-<stop offset="0%" stop-color="#6b3e26"/>
-<stop offset="100%" stop-color="#2a150d"/>
-</radialGradient>
-</defs>
-
-<!-- Cup -->
-<rect x="80" y="95" width="140" height="80" rx="35" fill="url(#cup3d)"/>
-
-<!-- Rim -->
-<ellipse cx="150" cy="95" rx="70" ry="15" fill="#f5f5f5"/>
-
-<!-- Coffee -->
-<ellipse cx="150" cy="95" rx="58" ry="10" fill="url(#coffee3d)"/>
-
-<!-- Handle -->
-<path d="M220 110 C260 110 260 160 220 160"
-stroke="#d9d9d9"
-stroke-width="14"
-fill="none"
-stroke-linecap="round"/>
-
-<!-- Steam -->
-<path d="M120 80 C115 50 125 50 120 20"
-stroke="#ffffff"
-stroke-width="4"
-fill="none">
-<animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
-</path>
-
-<path d="M150 80 C145 45 155 45 150 15"
-stroke="#ffffff"
-stroke-width="4"
-fill="none">
-<animate attributeName="opacity" values="0;1;0" dur="2.3s" repeatCount="indefinite"/>
-</path>
-
-<path d="M180 80 C175 50 185 50 180 20"
-stroke="#ffffff"
-stroke-width="4"
-fill="none">
-<animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite"/>
-</path>
-
-</svg>
-
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="220"/>
 </p>
 
 <p align="center">
