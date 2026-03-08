@@ -1,33 +1,48 @@
-Hey 👋What's Up?
-💫 About Me.
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Vaibhav%20Ingle&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Vaibhav+Ingle;Self-Driven+Developer;Building+Real-World+Web+Apps;Exploring+AI+%26+Cloud+Technologies;Open+to+Collaboration+🚀" />
 </p>
 
-
 <h3 align="center">Building Web Apps • AI Tools • Productivity Software</h3>
+
 <p align="center">
 <a href="https://vaibhav-ingle-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-orange?style=for-the-badge&logo=firefox">
 </a>
 </p>
 
+---
 
-🚀 Self-driven developer focused on building real-world web apps, not just tutorials  
-🧠 Currently exploring full-stack development with React, Next.js & cloud tools  
-⚙️ I enjoy turning ideas into fast, clean, scalable products  
-🔍 Always improving problem-solving skills through projects & experimentation  
-🤝 Open to collaborating on meaningful projects and startup ideas
+## 💫 About Me
 
+🚀 Self-driven developer focused on building **real-world web apps**, not just tutorials  
+🧠 Currently exploring **Full Stack Development with React, Next.js & Cloud tools**  
+⚙️ I enjoy turning ideas into **fast, clean, scalable products**  
+🔍 Always improving **problem-solving skills through projects & experimentation**  
+🤝 Open to collaborating on **meaningful projects and startup ideas**
+
+---
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-ingle07)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Vaibhav01-bit)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=orange)](https://vaibhav-ingle-portfolio.vercel.app)
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vaibhav-ingle07">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/Vaibhav01-bit">
+<img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white">
+</a>
+
+<a href="https://vaibhav-ingle-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=orange">
+</a>
+
+</p>
 
 ---
 
@@ -39,44 +54,45 @@ Hey 👋What's Up?
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap)
 
-### ⚙️ Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### Backend & Database
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
-### ☁️ DevOps & Hosting
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### DevOps & Hosting
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx)
 
-### 🛠 Tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### Tools
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git)
 
 ---
+
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vaibhav01-bit&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vaibhav01-bit&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vaibhav01-bit&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vaibhav01-bit&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vaibhav01-bit&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Vaibhav01-bit&theme=tokyonight"/>
 </p>
 
+---
 
-
-
-
-# 📊 GitHub Activity
+# 📈 GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav01-bit&theme=tokyo-night"/>
@@ -84,96 +100,18 @@ Hey 👋What's Up?
 
 ---
 
+⭐ **Always building, always learning.**
 
+---
 
-⭐ *Always building, always learning.*
-
-<h3 align="center">☕ Support My Work</h3>
+# ☕ Support My Work
 
 <p align="center">
 If you like my projects, consider supporting me ❤️
 </p>
 
-
 <p align="center">
-
-<!-- Coffee Animation -->
-<p align="center">
-
-<h3 align="center">☕ Support My Work</h3>
-
-<p align="center">
-
-<svg width="300" height="220" viewBox="0 0 300 220" xmlns="http://www.w3.org/2000/svg">
-
-<!-- Shadow -->
-<ellipse cx="150" cy="190" rx="95" ry="12" fill="#000" opacity="0.25"/>
-
-<!-- Gradients -->
-<defs>
-<linearGradient id="cup3d" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" stop-color="#ffffff"/>
-<stop offset="50%" stop-color="#e6e6e6"/>
-<stop offset="100%" stop-color="#cfcfcf"/>
-</linearGradient>
-
-<radialGradient id="coffee3d">
-<stop offset="0%" stop-color="#6b3e26"/>
-<stop offset="100%" stop-color="#2a150d"/>
-</radialGradient>
-</defs>
-
-<!-- Cup body -->
-<rect x="80" y="95" width="140" height="80" rx="35" fill="url(#cup3d)"/>
-
-<!-- Cup rim -->
-<ellipse cx="150" cy="95" rx="70" ry="15" fill="#f5f5f5"/>
-
-<!-- Coffee -->
-<ellipse cx="150" cy="95" rx="58" ry="10" fill="url(#coffee3d)"/>
-
-<!-- Handle -->
-<path d="M220 110 C260 110 260 160 220 160"
-stroke="#d9d9d9"
-stroke-width="14"
-fill="none"
-stroke-linecap="round"/>
-
-<!-- Steam -->
-<path d="M120 80 C115 50 125 50 120 20"
-stroke="#ffffff"
-stroke-width="4"
-fill="none">
-<animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
-</path>
-
-<path d="M150 80 C145 45 155 45 150 15"
-stroke="#ffffff"
-stroke-width="4"
-fill="none">
-<animate attributeName="opacity" values="0;1;0" dur="2.3s" repeatCount="indefinite"/>
-</path>
-
-<path d="M180 80 C175 50 185 50 180 20"
-stroke="#ffffff"
-stroke-width="4"
-fill="none">
-<animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite"/>
-</path>
-
-</svg>
-
-<br>
-
-<a href="https://www.buymeacoffee.com/Vaibhav01-bit">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
-</a>
-
-</p>
-<h3 align="center">☕ Support My Work</h3>
-
-<p align="center">
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="220"/>
 </p>
 
 <p align="center">
