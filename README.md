@@ -81,11 +81,6 @@ Hey 👋What's Up?
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav01-bit&theme=tokyo-night"/>
 </p>
-
----
-
-
-
 ---
 
 ---
@@ -112,17 +107,15 @@ a good cup of coffee keeps the creativity flowing 🚀
 </p>
 
 <p align="center">
+<img src="https://progress-bar.dev/65/?title=Brewing%20Coffee&width=420&color=brown"/>
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=1000&color=8B4513&center=true&vCenter=true&width=420&lines=Brewing+Coffee...;Loading+Creativity...;Compiling+Ideas..."/>
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/xT0xeMA62E1XIlup68/giphy.gif" width="240"/>
-</p>
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/Vaibhav01-bit">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
-</a>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme-assets/master/coffee.gif" width="220"/>
 </p>
 
 <p align="center">
