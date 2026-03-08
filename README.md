@@ -96,6 +96,10 @@ Hey 👋What's Up?
 <p align="center">
 If you like my projects, consider supporting me ❤️
 </p>
+<p align="center">
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="220"/>
+</p>
+
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/Vaibhav01-bit">
