@@ -104,47 +104,61 @@ If you like my projects, consider supporting me ❤️
 
 <p align="center">
 
-<svg width="260" height="200" viewBox="0 0 260 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="300" height="220" viewBox="0 0 300 220" xmlns="http://www.w3.org/2000/svg">
 
-<!-- shadow -->
-<ellipse cx="130" cy="165" rx="85" ry="10" fill="#000" opacity="0.2"/>
+<!-- Shadow -->
+<ellipse cx="150" cy="190" rx="95" ry="12" fill="#000" opacity="0.25"/>
 
-<!-- cup gradient -->
+<!-- Gradients -->
 <defs>
-  <linearGradient id="cupGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-    <stop offset="0%" stop-color="#ffffff"/>
-    <stop offset="100%" stop-color="#d9d9d9"/>
-  </linearGradient>
+<linearGradient id="cup3d" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#ffffff"/>
+<stop offset="50%" stop-color="#e6e6e6"/>
+<stop offset="100%" stop-color="#cfcfcf"/>
+</linearGradient>
 
-  <linearGradient id="coffeeGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-    <stop offset="0%" stop-color="#5c3b28"/>
-    <stop offset="100%" stop-color="#2f1b12"/>
-  </linearGradient>
+<radialGradient id="coffee3d">
+<stop offset="0%" stop-color="#6b3e26"/>
+<stop offset="100%" stop-color="#2a150d"/>
+</radialGradient>
 </defs>
 
-<!-- cup body -->
-<rect x="70" y="80" width="120" height="70" rx="25" fill="url(#cupGradient)"/>
+<!-- Cup body -->
+<rect x="80" y="95" width="140" height="80" rx="35" fill="url(#cup3d)"/>
 
-<!-- cup rim -->
-<ellipse cx="130" cy="80" rx="60" ry="12" fill="#f5f5f5"/>
+<!-- Cup rim -->
+<ellipse cx="150" cy="95" rx="70" ry="15" fill="#f5f5f5"/>
 
-<!-- coffee -->
-<ellipse cx="130" cy="80" rx="50" ry="8" fill="url(#coffeeGradient)"/>
+<!-- Coffee -->
+<ellipse cx="150" cy="95" rx="58" ry="10" fill="url(#coffee3d)"/>
 
-<!-- handle -->
-<path d="M190 95 C230 95 230 135 190 135" stroke="#e5e5e5" stroke-width="12" fill="none"/>
+<!-- Handle -->
+<path d="M220 110 C260 110 260 160 220 160"
+stroke="#d9d9d9"
+stroke-width="14"
+fill="none"
+stroke-linecap="round"/>
 
-<!-- steam animation -->
-<path d="M110 70 C105 40 115 40 110 15" stroke="#ffffff" stroke-width="3" fill="none">
-  <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+<!-- Steam -->
+<path d="M120 80 C115 50 125 50 120 20"
+stroke="#ffffff"
+stroke-width="4"
+fill="none">
+<animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
 </path>
 
-<path d="M130 70 C125 35 135 35 130 10" stroke="#ffffff" stroke-width="3" fill="none">
-  <animate attributeName="opacity" values="0;1;0" dur="2.2s" repeatCount="indefinite"/>
+<path d="M150 80 C145 45 155 45 150 15"
+stroke="#ffffff"
+stroke-width="4"
+fill="none">
+<animate attributeName="opacity" values="0;1;0" dur="2.3s" repeatCount="indefinite"/>
 </path>
 
-<path d="M150 70 C145 40 155 40 150 15" stroke="#ffffff" stroke-width="3" fill="none">
-  <animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite"/>
+<path d="M180 80 C175 50 185 50 180 20"
+stroke="#ffffff"
+stroke-width="4"
+fill="none">
+<animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite"/>
 </path>
 
 </svg>
@@ -152,7 +166,7 @@ If you like my projects, consider supporting me ❤️
 <br>
 
 <a href="https://www.buymeacoffee.com/Vaibhav01-bit">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
 </a>
 
 </p>
