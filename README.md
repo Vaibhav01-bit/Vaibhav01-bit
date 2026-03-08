@@ -93,7 +93,39 @@ Hey 👋What's Up?
 <p align="center">
 If you like my projects, consider supporting me ❤️
 </p>
+<h3 align="center">☕ Support My Work</h3>
 
+<p align="center">
+
+<!-- Coffee Animation -->
+<svg width="200" height="160" viewBox="0 0 220 180" xmlns="http://www.w3.org/2000/svg">
+
+<rect x="60" y="70" width="100" height="60" rx="15" fill="#EDE7F6"/>
+<circle cx="165" cy="100" r="18" fill="none" stroke="#EDE7F6" stroke-width="10"/>
+<ellipse cx="110" cy="140" rx="70" ry="8" fill="#D1C4E9"/>
+<ellipse cx="110" cy="70" rx="45" ry="10" fill="#6D4C41"/>
+
+<path d="M90 60 C85 40,95 40,90 20" stroke="#fff" stroke-width="3" fill="none">
+<animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+</path>
+
+<path d="M110 60 C105 35,115 35,110 15" stroke="#fff" stroke-width="3" fill="none">
+<animate attributeName="opacity" values="0;1;0" dur="2.2s" repeatCount="indefinite"/>
+</path>
+
+<path d="M130 60 C125 40,135 40,130 20" stroke="#fff" stroke-width="3" fill="none">
+<animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite"/>
+</path>
+
+</svg>
+
+<br>
+
+<a href="https://www.buymeacoffee.com/Vaibhav01-bit">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
+</a>
+
+</p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/Vaibhav01-bit">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
