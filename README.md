@@ -126,3 +126,6 @@ a good cup of coffee keeps the creativity flowing 🚀
 <p align="center">
 <i>Fueling creativity one cup at a time ☕</i>
 </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=1000&color=8B4513&center=true&vCenter=true&width=420&lines=Brewing+Coffee...;Loading+Creativity...;Compiling+Ideas..."/>
+</p>
