@@ -91,6 +91,8 @@ Hey 👋What's Up?
 
 ---
 
+---
+
 ⭐ <i>Always building, always learning.</i>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2"/>
@@ -98,7 +100,7 @@ Hey 👋What's Up?
 <h2 align="center">☕ Brewing Code</h2>
 
 <p align="center">
-While I build projects and explore new technologies,  
+While I build projects and explore new technologies,<br>
 a good cup of coffee keeps the creativity flowing 🚀
 </p>
 
@@ -107,15 +109,7 @@ a good cup of coffee keeps the creativity flowing 🚀
 </p>
 
 <p align="center">
-<img src="https://progress-bar.dev/65/?title=Brewing%20Coffee&width=420&color=brown"/>
-</p>
-
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=1000&color=8B4513&center=true&vCenter=true&width=420&lines=Brewing+Coffee...;Loading+Creativity...;Compiling+Ideas..."/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme-assets/master/coffee.gif" width="220"/>
 </p>
 
 <p align="center">
