@@ -92,45 +92,29 @@ Hey 👋What's Up?
 
 ---
 
-⭐ *Always building, always learning.*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2"/>
-
-<h2 align="center">☕ Support My Work</h2>
-
-<p align="center">
-If you enjoy my projects and want to support my work,  
-consider buying me a coffee ❤️
-</p>
-
 ---
 
 ⭐ <i>Always building, always learning.</i>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2"/>
 
-<h2 align="center">☕ Brewing Code...</h2>
+<h2 align="center">☕ Brewing Code</h2>
 
 <p align="center">
-<b>Coding Progress</b>
+While I build projects and explore new technologies,  
+a good cup of coffee keeps the creativity flowing 🚀
 </p>
 
 <p align="center">
-<img src="https://progress-bar.dev/60/?title=Brewing%20Coffee&width=400&color=brown"/>
+<img src="https://progress-bar.dev/65/?title=Brewing%20Coffee&width=420&color=brown"/>
 </p>
 
 <p align="center">
-☕ Brewing Coffee... Please wait
+<i>☕ Brewing Coffee... Please wait</i>
 </p>
 
 <p align="center">
-<img src="https://media.tenor.com/Isjtbk4v5u4AAAAC/coffee-coffee-time.gif" width="220"/>
-</p>
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/Vaibhav01-bit">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
-</a>
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="230"/>
 </p>
 
 <p align="center">
@@ -140,5 +124,5 @@ consider buying me a coffee ❤️
 </p>
 
 <p align="center">
-<i>Fueling creativity one cup of coffee at a time ☕</i>
+<i>Fueling creativity one cup at a time ☕</i>
 </p>
