@@ -103,8 +103,34 @@ If you enjoy my projects and want to support my work,
 consider buying me a coffee ❤️
 </p>
 
+---
+
+⭐ <i>Always building, always learning.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2"/>
+
+<h2 align="center">☕ Brewing Code...</h2>
+
 <p align="center">
-<img src="https://media.tenor.com/6oSedVpeB-YAAAAC/coffee-code.gif" width="230"/>
+<b>Coding Progress</b>
+</p>
+
+<p align="center">
+<img src="https://progress-bar.dev/60/?title=Brewing%20Coffee&width=400&color=brown"/>
+</p>
+
+<p align="center">
+☕ Brewing Coffee... Please wait
+</p>
+
+<p align="center">
+<img src="https://media.tenor.com/Isjtbk4v5u4AAAAC/coffee-coffee-time.gif" width="220"/>
+</p>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/Vaibhav01-bit">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+</a>
 </p>
 
 <p align="center">
