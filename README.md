@@ -94,6 +94,8 @@ Hey 👋What's Up?
 
 ---
 
+---
+
 ⭐ <i>Always building, always learning.</i>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2"/>
@@ -110,11 +112,11 @@ a good cup of coffee keeps the creativity flowing 🚀
 </p>
 
 <p align="center">
-<i>☕ Brewing Coffee... Please wait</i>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=1000&color=8B4513&center=true&vCenter=true&width=420&lines=Brewing+Coffee...;Loading+Creativity...;Compiling+Ideas..."/>
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="230"/>
+<img src="https://media.giphy.com/media/xT0xeMA62E1XIlup68/giphy.gif" width="240"/>
 </p>
 
 <p align="center">
@@ -125,7 +127,4 @@ a good cup of coffee keeps the creativity flowing 🚀
 
 <p align="center">
 <i>Fueling creativity one cup at a time ☕</i>
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=1000&color=8B4513&center=true&vCenter=true&width=420&lines=Brewing+Coffee...;Loading+Creativity...;Compiling+Ideas..."/>
 </p>
