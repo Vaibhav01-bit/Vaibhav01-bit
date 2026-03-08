@@ -101,8 +101,9 @@ If you enjoy my projects and want to support my work, consider buying me a coffe
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/xT0GqeSlGSRQutKX9K/giphy.gif" width="220"/>
+<img src="https://media.tenor.com/7KX2L8k0gU8AAAAC/coffee-hot.gif" width="220">
 </p>
+
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/Vaibhav01-bit">
