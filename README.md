@@ -86,25 +86,21 @@ Hey 👋What's Up?
 
 
 
+---
+
 ⭐ *Always building, always learning.*
 
-<h3 align="center">☕ Support My Work</h3>
+---
+
+<h2 align="center">☕ Support My Work</h2>
 
 <p align="center">
-If you like my projects, consider supporting me ❤️
+If you enjoy my projects and want to support my work, consider buying me a coffee ❤️
 </p>
 
-
 <p align="center">
 
-<!-- Coffee Animation -->
-<p align="center">
-
-<h3 align="center">☕ Support My Work</h3>
-
-<p align="center">
-
-<svg width="300" height="220" viewBox="0 0 300 220" xmlns="http://www.w3.org/2000/svg">
+<svg width="260" height="200" viewBox="0 0 300 220" xmlns="http://www.w3.org/2000/svg">
 
 <!-- Shadow -->
 <ellipse cx="150" cy="190" rx="95" ry="12" fill="#000" opacity="0.25"/>
@@ -123,10 +119,10 @@ If you like my projects, consider supporting me ❤️
 </radialGradient>
 </defs>
 
-<!-- Cup body -->
+<!-- Cup -->
 <rect x="80" y="95" width="140" height="80" rx="35" fill="url(#cup3d)"/>
 
-<!-- Cup rim -->
+<!-- Rim -->
 <ellipse cx="150" cy="95" rx="70" ry="15" fill="#f5f5f5"/>
 
 <!-- Coffee -->
@@ -163,17 +159,6 @@ fill="none">
 
 </svg>
 
-<br>
-
-<a href="https://www.buymeacoffee.com/Vaibhav01-bit">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
-</a>
-
-</p>
-<h3 align="center">☕ Support My Work</h3>
-
-<p align="center">
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="260"/>
 </p>
 
 <p align="center">
