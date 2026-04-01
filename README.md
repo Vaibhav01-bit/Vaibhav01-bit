@@ -74,23 +74,6 @@ Hey 👋What's Up?
 
 
 
-
-
-# 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav01-bit&theme=tokyo-night"/>
-</p>
----
-
----
-
----
-
----
-
-
-
 <h3 align="center">☕ Support My Work</h3>
 
 <p align="center">
