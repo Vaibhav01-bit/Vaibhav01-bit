@@ -68,9 +68,7 @@ Hey 👋What's Up?
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vaibhav01-bit&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vaibhav01-bit&theme=tokyonight" />
-</p>
+
 
 
 
